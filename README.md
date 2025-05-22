@@ -37,7 +37,7 @@ I am open for new challenges and at any time, just keep in mind:
 
 - An amazing team, fun projects, constant learning and ethical products are what I am looking for.
 - Preferably, I would love to start at companies, leaving the agency world, but: My previous point holds full priority.
-- I open for a job in Frankfurt am Main (maximum 2 days in office) or anywhere else in Germany (full-remote or 1-2 days per month if travel and hotel costs are covered)
+- I am open for a job in Frankfurt am Main (maximum 2 days in office) or anywhere else in Germany (full-remote or 1-2 days per month if travel and hotel costs are covered)
 - I specialize in Web Front-End development / engineering, especially in design systems and prototype work. I am open for e.g. Full-Stack Development if proper training will be provided.
 - Articifial intelligence is absolutely astonishing, though, I am very critical of its over-usage and pure reliance on it, trying to avoid it most of the time. In other words: If you are looking for an "AI Developer" (which mostly means: Using OpenAI API and writing a few prompts), I might be your guy, but I won't be happy for long.
 - If you still believe I might be a good match, drop a message at my [formal mail](mailto:nico.borst@gmx.de).
