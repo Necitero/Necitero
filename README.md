@@ -6,6 +6,7 @@ I was born in May 2000 (you do the maths) and I code a bunch of stuff. My reposi
 
 ## Personal plans 🗝️
 
+- Write a private voice assistant ✏️
 - Upgrade and modernize my favorite tattoo and piercing studio's website ✏️
 - Write a private Discord Music Bot in TypeScript ✏️
 - Write my very much needed and overdue homepage
@@ -24,8 +25,10 @@ I was born in May 2000 (you do the maths) and I code a bunch of stuff. My reposi
 
 ### Projects 🔨
 
-- ⭐ SYZYGY Group | Internal base design system | Developer | React (2025 – now) ✏️
-- 🚙 Mazda Motor Europe | Component library | Developer | React (2025 – now) ✏️
+- 🏍️ BMW Motorrad | Email Templates | Developer | Angular (2025 – now) ✏️
+- 🚙 Hyundai Motor Europe | Product Information Page Evolution | Developer | React (2025 – now) ✏️
+- ⭐ SYZYGY Group | Internal base design system | Developer | React (2025)
+- 🚙 Mazda Motor Europe | Component library | Developer | React (2025)
 - ✈️ Lufthansa Group | Multivariant testing and sales push campaigns | Dev Support | Typescript (2025)
 - ✈️ Lufthansa Group | Design system development | Dev contributor | Lit (2023 – 2024)
 - ✈️ Lufthansa Group | Multivariant testing and sales push campaigns | Lead dev and strategic sparring partner | Typescript (2022 – 2024)
