@@ -1,4 +1,4 @@
-![Header Image](necitero.jpg "Necitero")
+<img src="necitero.jpg" style="width: 100%" alt="Necitero" />
 
 # Necitero
 
