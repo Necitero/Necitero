@@ -10,15 +10,20 @@ I was born in May 2000 (you do the maths) and I code a bunch of stuff. My reposi
 
 ### Plans and WIP 🔨
 
+- Switch from GitHub to Codeberg
 - Write a private voice assistant ✋🏻 (On hold due to priority shift)
 - Write a private Discord Music Bot in TypeScript ✋🏻 (On hold due to priority shift)
 - Write my very much needed and overdue homepage ✏️
 - Build a React.JS + Strapi CMS powered solution for various entities (e.g. schools, animal shelters, etc.) (open-source)
 - Make the world a better place
 
-## Finished Projects 🎉
+### Finished Projects 🎉
 
-- 27-09-2025 | Upgrade and modernize my favorite tattoo and piercing studio's website ✅
+- 2025-09-27 | Upgrade and modernize my favorite tattoo and piercing studio's website ✅
+
+### Ongoing Projects 🔁
+
+- Since 2025-11-10 | Maintain my own dotfiles repository
 
 ## Professional Career 💼
 
