@@ -24,6 +24,7 @@ I was born in May 2000 (you do the maths) and I code a bunch of stuff. My reposi
 ### Ongoing Projects 🔁
 
 - Since 2025-11-10 | Maintain my own dotfiles repository
+- Since 2025-08-19 | Maintain e-hoi package id grabber (I'm not affiliated with e-hoi, please read README)
 
 ## Professional Career 💼
 
@@ -53,7 +54,7 @@ I am open for new challenges at any time, just keep in mind:
 
 - An amazing team, fun projects, constant learning and ethical products are what I am looking for.
 - Preferably, I would love to start at companies, leaving the agency world, but: My previous points hold full priority.
-- I am open for a job in Frankfurt am Main (maximum 2 days in office) or anywhere else in Germany (full-remote or 1-2 days per month if travel and hotel costs are covered)
+- I am open for a job in Frankfurt am Main (maximum 3 days in office) or anywhere else in Germany (full-remote or 1-2 days per month if travel and hotel costs are covered)
 - I specialize in Web Front-End development / engineering, especially in design systems and prototype work. I am open for and interested in Full-Stack Development but will require proper training.
-- AI (Articifial Intelligence) is absolutely astonishing, though, I am very critical of its over-usage and pure reliance on it, trying to avoid it most of the time. In other words: If you are looking for an "AI Developer" (which mostly means: Using OpenAI API, writing a few prompts and creating tailored workflows), I might be your guy, but I won't be happy for long.
+- AI (Articifial Intelligence) is absolutely astonishing, though, I am very critical of its over-usage and pure reliance on it, trying to avoid it most of the time. In other words: If you are looking for an "AI Developer" (Ai integration in SaaS and SPAs), I might be your guy, but I won't be happy for long.
 - If you still believe I might be a good match, drop a message at my [LinkedIn](https://www.linkedin.com/in/nico-borst-94861427b/). I try to check it at least once a week, so please be patient when waiting for a response.
